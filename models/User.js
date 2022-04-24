@@ -19,7 +19,7 @@ const UserSchema = new Schema({
             ref: 'Thought'
         }
     ],
-    friends: [UserSchema]
+    friends: [this]
 },
 {
     toJSON: {
