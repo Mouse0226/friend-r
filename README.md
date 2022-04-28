@@ -1,7 +1,7 @@
 # Social Network API
 
 ## Description 
-This is a back-end API that will accept GET, PUT, POST, and DELETE requests to a NoSQL database where information on users is stored for a social network.
+Friend-r is a back-end API that will accept GET, PUT, POST, and DELETE requests to a NoSQL database where information on users is stored for a social network.
 
 ## License
 This application is licensed under: <br />
